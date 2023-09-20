@@ -4,4 +4,4 @@ jobs:
   Explore-Github_Actions:
     runs-on: ubantu-latest
     steps :
-      -run: echo "Hello World"
+      - run: echo "Hello World"
