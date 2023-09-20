@@ -2,6 +2,6 @@ name: Github Actions Demo
 on: [push]
 jobs:
   Explore-Github_Actions:
-    runs-on: ubantu-latest
+    runs-on: ubuntu-latest
     steps :
       - run: echo "Hello World"
